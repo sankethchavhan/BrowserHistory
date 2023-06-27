@@ -91,12 +91,3 @@ outputs = f.fetch_bookmarks()
 bms = outputs.bookmarks
 ```
 
-Check out the [documentation](https://browser-history.readthedocs.io/en/latest/) for more details.
-
-# Supported Browsers
-
-Read the [documentation](https://browser-history.readthedocs.io/en/latest/browsers.html)
-
-# License
-
-Licensed under the [Apache License, Version 2.0 (the "License")](LICENSE)
